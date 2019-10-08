@@ -1,0 +1,8 @@
+* [Development Plan](HR%20&%20Development/Development+Plan.md)
+* [Feedback - IT Skills Assessment](HR%20&%20Development/Feedback+-+IT+Skills+Assessment.md)
+* [Goals - OKR's](HR%20&%20Development/Goals+-+OKR%27s.md)
+* [Hiring](HR%20&%20Development/Hiring.md)
+* [IT Skill Matrix](HR%20&%20Development/Hiring.md)
+* [One-on-one](HR%20&%20Development/One-on-one.md)
+* [Roles & Responsibilities](HR%20&%20Development/Roles%20&%20Responsibilities)
+* [Show and Tell](HR%20&%20Development/Show+and+Tell.md)

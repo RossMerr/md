@@ -1,6 +1,6 @@
-# LoveOS RFCs
+# RFCs
 
-The RFC (request for comments) process provides a consistent and controlled path for discussing substantial, technical changes to loveOS. It works like this:
+The RFC (request for comments) process provides a consistent and controlled path for discussing substantial, technical changes. It works like this:
 
 1. Write down your proposal as a markdown file
 2. Create a merge request
@@ -12,11 +12,11 @@ The RFC (request for comments) process provides a consistent and controlled path
 
 
 ## When to follow this process
-Developers should use this process to collaborate on the technical vision of the loveOS platform. Use this process whenever you want to discuss substantial, technical changes to the loveOS platform. The process fills the gap between "having an idea for an improvement" and "having actionable tasks". Some example RFC topics:
+Developers should use this process to collaborate on the technical vision of the platform. Use this process whenever you want to discuss substantial, technical changes to the platform. The process fills the gap between "having an idea for an improvement" and "having actionable tasks". Some example RFC topics:
 * Migrations
 * Adopting new technology
 * API design
-* Architecture of a new loveOS vertical
+* Architecture of a new vertical
 * Shared usability / design / layout concepts across frontends
 * Changes to the RFC process
 
